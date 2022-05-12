@@ -7,7 +7,7 @@ Web Developer and Designer
 I like to work on my own and I love the freedom I get from working for myself. I'm a self-starter and I like to take up challenges. I love to code, so I have no problem staying up all night working on projects. I have good time management and I'm fast in what I do. I believe in quality and I'm not going to stop until I'm done. I can learn new technologies in just a matter of days.
 
 * 🌍  I'm based in Anand, Gujarat, India
-* 🖥️  See my portfolio at [Vinit.me](http://#)
+* 🖥️  See my portfolio at [VinIt](http://vinit18.netlify.app)
 * ✉️  You can contact me at [vinitkmistry@gmail.com](mailto:vinitkmistry@gmail.com)
 * 🚀  I'm currently working on [Ecommerce Website with Sanity](http://#)
 * 🧠  I'm learning React JS
